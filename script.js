@@ -1,4 +1,3 @@
-// Corrected JavaScript for To-Do List
 
 document.addEventListener('DOMContentLoaded', function () {
     const taskInput = document.getElementById('new-task');
